@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sora1/udemy_typescript/issues"
   },
-  "homepage": "https://github.com/sora1/udemy_typescript#readme"
+  "homepage": "https://github.com/sora1/udemy_typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
