@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sora1/udemy_typescript#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   }
 }
